@@ -1,0 +1,5 @@
+# Generated from a local VS Code install by tools/extract-en.js (multi-MB); rebuild instead of committing.
+work/*
+!work/queue.json
+dist/
+node_modules/
