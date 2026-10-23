@@ -12,7 +12,7 @@ the UI strings translated so far). Not affiliated with Microsoft.*
 
 ## Усталяванне
 
-1. Спампуйце `vscode-language-pack-be-<версія>.vsix` са [старонкі Releases](../../releases).
+1. Спампуйце `vscode-language-pack-be-<версія>.vsix` са [старонкі Releases](https://github.com/aletonfdg/Belarussian-language-VS-Code/releases).
 2. У VS Code адкрыйце **Extensions** → меню `…` → **Install from VSIX…** і выберыце файл.
    Або ў тэрмінале:
    ```bash

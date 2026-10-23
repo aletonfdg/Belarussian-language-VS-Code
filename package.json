@@ -1,9 +1,9 @@
 {
 	"name": "vscode-language-pack-be",
-	"displayName": "Belarusian Language Pack for Visual Studio Code",
-	"description": "Беларускі моўны пакет для Visual Studio Code",
+	"displayName": "Беларуская мова (Belarusian Language Pack)",
+	"description": "Неафіцыйны беларускі пераклад інтэрфейсу Visual Studio Code. Unofficial Belarusian display language for VS Code.",
 	"version": "0.2.0",
-	"publisher": "local",
+	"publisher": "Aleton",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.100.0"
@@ -29,5 +29,18 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/aletonfdg/Belarussian-language-VS-Code.git"
+	},
+	"keywords": [
+		"belarusian",
+		"беларуская",
+		"be",
+		"language pack",
+		"localization",
+		"l10n",
+		"i18n"
+	],
+	"homepage": "https://github.com/aletonfdg/Belarussian-language-VS-Code#readme",
+	"bugs": {
+		"url": "https://github.com/aletonfdg/Belarussian-language-VS-Code/issues"
 	}
 }
